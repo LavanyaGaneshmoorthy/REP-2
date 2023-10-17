@@ -1,0 +1,6 @@
+                                                ALGORITHM TO ACCEPT TWO NUMBERS COMPUTE SUM AND PRINT THE RESULT
+step1:start
+step2:get first number is NUM1 and second number in NUM2
+step3:add NUM1 and NUM2 and store as SUM
+step4:display SUM
+step5:stop
